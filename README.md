@@ -1,9 +1,9 @@
-# Understanding Data Science related job positions through Web Scrapping
+# Understanding Data Science related job positions through Web Scraping
 
 
 ### Legend for notebooks:
 
-__Web Scrapping - Using Selenium and Beautiful Soup:__
+__Web Scraping - Using Selenium and Beautiful Soup:__
 <br>
 Contains the steps and codes I used to scrape job listing information for the study.
 
