@@ -22,3 +22,7 @@ Contains data cleaned in Part 1
 __Part 2 - Studying Factors that Categorize Job Titles__
 <br>
 Contains steps, explanation and model for predicting job titles
+
+<br>
+
+![alt text](https://github.com/JYQuek/Project-4/blob/master/Image.png?raw=true)
